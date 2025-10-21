@@ -5,8 +5,9 @@
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b> Tableau Sales Analytics Interactive Dashboard </b>
-  - [Interactive Public Dashboard]("https://public.tableau.com/app/profile/cole.weber/viz/DTSC600_FinalProject_ColeWeber/Dashboard1")
+  - <a href="https://public.tableau.com/app/profile/cole.weber/viz/DTSC600_FinalProject_ColeWeber/Dashboard1" target="_blank"> Interactive Public Dashboard
 </a>
+
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
