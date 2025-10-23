@@ -11,9 +11,9 @@
   - <p> Text </p>
 - <b> Applied Machine Learning Project </b>
   - <p> Text </p>
-- <b> Movie Review Text Sentiment Analysis (BERT Transfer Learning)<\b>
+- <b> Movie Review Text Sentiment Analysis (BERT Transfer Learning)</b>
   - <p> Text </p>
-- <b> SQLite Database Design and ETL Query Project <\b>
+- <b> SQLite Database Design and ETL Query Project </b>
   - <p> Text </p> 
  
 
