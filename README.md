@@ -4,9 +4,9 @@
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
-- <b> Tableau Sales Analytics Dashboard </b>
-  - <p> Interactive analytics dashboard that highlights sales patterns and trends through multiple visualization techniques. This dashboard allows users to use built in parameters and filters to customize the visualization scope </p>
-  - <a href="https://public.tableau.com/app/profile/cole.weber/viz/DTSC600_FinalProject_ColeWeber/Dashboard1" target="_blank"> Interactive Public Dashboard </a>
+- <b> <a href="https://public.tableau.com/app/profile/cole.weber/viz/DTSC600_FinalProject_ColeWeber/Dashboard1" target="_blank"> Tableau Interactive Sales Dashboard </a> </b>
+  - <p> Interactive analytics dashboard that highlights sales patterns and trends. This dashboard allows users to use built in parameters and filters to customize the visualization scope </p>
+
 - <b> Sports Betting Project (ML + Data Scraping) </b>  
   - <p> Text </p>
 - <b> Applied Machine Learning Project </b>
