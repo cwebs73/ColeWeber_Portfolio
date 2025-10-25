@@ -9,7 +9,7 @@
 
 - <b> Sports Betting Project (ML + Data Scraping) </b>  
   - <p> Text </p>
-- <b> Applied Machine Learning Project </b>
+- <b> End to End Predictive Analytics Project </b>
   - <p> Text </p>
 - <b> Movie Review Text Sentiment Analysis (BERT Transfer Learning)</b>
   - <p> Text </p>
