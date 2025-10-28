@@ -6,19 +6,20 @@
 
 - <b> <a href="https://public.tableau.com/app/profile/cole.weber/viz/DTSC600_FinalProject_ColeWeber/Dashboard1" target="_blank"> Tableau Interactive Sales Dashboard </a> </b>
   - <p> Interactive analytics dashboard that highlights sales patterns and trends. This dashboard allows users to use built in parameters and filters to customize the visualization scope </p>
+- <b> End to End Predictive Analytics Project </b>
+  - <p> Text </p>
+ 
+
+<!--
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 - <b> Sports Betting Project (ML + Data Scraping) </b>  
-  - <p> Text </p>
-- <b> End to End Predictive Analytics Project </b>
   - <p> Text </p>
 - <b> Movie Review Text Sentiment Analysis (BERT Transfer Learning)</b>
   - <p> Text </p>
 - <b> SQLite Database Design and ETL Query Project </b>
   - <p> Text </p> 
- 
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
