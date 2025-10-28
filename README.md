@@ -6,8 +6,8 @@
 
 - <b> <a href="https://public.tableau.com/app/profile/cole.weber/viz/DTSC600_FinalProject_ColeWeber/Dashboard1" target="_blank"> Tableau Interactive Sales Dashboard </a> </b>
   - <p> Interactive analytics dashboard that highlights sales patterns and trends. This dashboard allows users to use built in parameters and filters to customize the visualization scope </p>
-- <b> End to End Predictive Analytics Project </b>
-  - <p> Text </p>
+- <b> [End to End Predictive Analytics Project](Complete_ML_Project.ipynb) </b>
+  - <p> This project attempts to define the relationship between student performance variables and student term grades using predictive and descriptive analytics techniques. The project findings will enable school administrations to proactively identify students who may lack academic support  </p>
  
 
 <!--
